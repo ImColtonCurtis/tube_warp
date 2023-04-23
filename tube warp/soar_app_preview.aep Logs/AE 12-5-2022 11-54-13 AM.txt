@@ -1,0 +1,22 @@
+Adobe After Effects v22.6 Windows 64 render log for project “soar_app_preview.aep”
+
+Rendering started on 12/5/2022 at 11:54:13 AM
+
+  12/5/2022 11:54:13 AM: Starting composition “1668x2388”.
+
+  Output To: E:\Games\soar\App Store Stuff\1668x2388_1_[#####].png    12/5/2022 11:54:13 AM: Finished composition “1668x2388”.
+
+
+  12/5/2022 11:54:14 AM: Starting composition “1668x2388”.
+
+  Output To: E:\Games\soar\App Store Stuff\1668x2388_2_[#####].png    12/5/2022 11:54:14 AM: Finished composition “1668x2388”.
+
+
+  12/5/2022 11:54:14 AM: Starting composition “1668x2388”.
+
+  Output To: E:\Games\soar\App Store Stuff\1668x2388_3_[#####].png    12/5/2022 11:54:16 AM: Finished composition “1668x2388”.
+
+
+  Total Time Elapsed: 3 Seconds
+Log closed on 12/5/2022 at 11:54:16 AM
+
